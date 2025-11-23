@@ -1,0 +1,45 @@
+11:34:12 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:34:13 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:34:14 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:34:15 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:34:16 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:34:17 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:34:23 - ✅ ALLOWED: Ether / IPv6 / ICMPv6ND_RA / ICMPv6NDOptSrcLLAddr / ICMPv6NDOptMTU / ICMPv6NDOptPrefixInfo / ICMPv6 Neighbor Discovery Option - Recursive DNS Server Option 2409:40d1:1016:4ec1::81 | reason: Allowed by rules
+11:34:23 - ✅ ALLOWED: Ether / fe80::a00:27ff:fe33:7025 > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2 | reason: Allowed by rules
+11:34:23 - ✅ ALLOWED: Ether / fe80::a00:27ff:fe33:7025 > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2 | reason: Allowed by rules
+11:34:48 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:35:44 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:35:45 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:36:14 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:36:14 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:36:15 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:36:16 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:36:17 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:36:50 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:36:50 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:38:14 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:38:15 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:38:16 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:38:17 - 🚫 BLOCKED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Blocked IP
+11:38:36 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:38:37 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:39:25 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:39:25 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:40:14 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:40:14 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:40:14 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:40:15 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:40:16 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:40:17 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:40:45 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:41:07 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:41:21 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:41:37 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:41:47 - ✅ ALLOWED: Ether / ARP is at ae:9b:48:e6:0f:a5 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:41:50 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:42:14 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:42:14 - ✅ ALLOWED: Ether / ARP who has 10.119.67.103 says 10.119.67.58 / Padding | reason: Allowed by rules
+11:42:15 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:42:16 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:42:17 - ✅ ALLOWED: 10.119.67.103 -> 239.255.255.250 proto=UDP dport=1900 | reason: Allowed by rules
+11:42:31 - ✅ ALLOWED: Ether / ARP who has 10.119.67.58 says 10.119.67.247 | reason: Allowed by rules
