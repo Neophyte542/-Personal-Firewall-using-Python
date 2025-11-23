@@ -70,7 +70,7 @@ cd personal-firewall
 📝 Example Rule (rules.json)
 [
   {
-    "id": "r1",
+    "id": "r1",    
     "action": "BLOCK",
     "direction": "INBOUND",
     "proto": "TCP",
@@ -142,5 +142,7 @@ c. Always keep a "safe mode" / undo script ready.
 5. Scheduled rules & rate-limiting
 
    👨‍💻 Author
+   
 MANOJ KUMAR B R
+
 Cybersecurity Intern • Python & Networking Enthusiast
